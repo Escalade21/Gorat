@@ -1,1 +1,1 @@
-# Gorat
+Hello, the reason why I wrote this code is that many people may be bored with the terminal or do not know how to use the terminal. To check the payload, you must first have Metasploit installed on Windows.
